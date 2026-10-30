@@ -5,7 +5,6 @@ import {
   ChevronDown, CircleHelp, Dumbbell, LayoutDashboard, Menu, Plus, Search,
   Settings, Users, X, Zap,
 } from "lucide-react";
-import { formatINR } from "./lib/utils";
 
 const navItems = [
   { label: "Overview", to: "/", icon: LayoutDashboard },
